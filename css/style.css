@@ -41,3 +41,12 @@ li {
     
     font: 1.2em sans-serif;
 }
+.leaflet-container {
+			height: 500px;
+			width: 100%;
+        }
+.service{
+    text-align: center;
+    font-weight: 600;
+    font-size: 2em;
+}
